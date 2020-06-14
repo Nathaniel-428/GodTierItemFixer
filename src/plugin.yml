@@ -1,3 +1,4 @@
 name: ItemFixer
 author: Leymoo (originally)
 version: 4
+main: me.fixer.fixer.Main
